@@ -12,19 +12,8 @@
 如果不想自己编译，可直接下载apk进行测试：https://github.com/elesos/AppRTC-Android/raw/master/apprtc-release.apk
 
 
-测试时，app设置的Room server url可以填写我搭建的webRTC服务器(有Room Server，Signal Server，TURN/STUN Server， ICE Server)地址：
 
-room server:http://36.110.202.64:8080
 
-ice server:http://36.110.202.64:3033/iceconfig
-
-turn server:turn:36.110.202.64:3478
-
-stun server:36.110.202.64:3478
-
-signal server:http://36.110.202.64:8089/
-
-web端地址是： http://36.110.202.64:8080
 
 其它
 ==
