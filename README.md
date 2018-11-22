@@ -9,7 +9,7 @@
 
 下载
 ===
-如果不想自己编译，可直接下载apk进行测试：https://github.com/elesos/AppRTC-Android/raw/master/apprtc-release.apk
+如果不想自己编译，可直接下载apk进行测试：https://github.com/elesos/webrtc_android_apprtc/raw/master/AppRTCMobile.apk
 
 
 
